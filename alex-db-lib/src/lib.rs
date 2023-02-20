@@ -8,5 +8,7 @@ pub mod config;
 pub mod db;
 pub mod error;
 pub mod stat_record;
+pub mod user_index;
+pub mod user_record;
 pub mod value_index;
 pub mod value_record;
